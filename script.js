@@ -906,13 +906,13 @@ function ProjgenerateCode() {
 
     if (noValue && ncValue) {
         const codes = {
-            "11": "P2AP111",
-            "10": "P2AP110",
-            "01": "P2AP101",
-            "21": "P2AP121",
-            "23": "P2AP123",
-            "22": "P2AP122",
-            "33": "P2AP133"
+            "11": "P2PSP111",
+            "10": "P2PSP110",
+            "01": "P2PSP101",
+            "21": "P2PSP121",
+            "23": "P2PSP123",
+            "22": "P2PSP122",
+            "33": "P2PSP133"
         };
 
         const combinedValue = noValue + ncValue;
@@ -984,13 +984,13 @@ function ProjblackgenerateCode() {
 
     if (noValue && ncValue) {
         const codes = {
-            "11": "P2AP211",
-            "10": "P2AP210",
-            "01": "P2AP201",
-            "21": "P2AP221",
-            "23": "P2AP223",
-            "22": "P2AP222",
-            "33": "P2AP233"
+            "11": "P2PSP211",
+            "10": "P2PSP210",
+            "01": "P2PSP201",
+            "21": "P2PSP221",
+            "23": "P2PSP223",
+            "22": "P2PSP222",
+            "33": "P2PSP233"
         };
 
         const combinedValue = noValue + ncValue;
@@ -1053,13 +1053,13 @@ function ProjgreengenerateCode() {
 
     if (noValue && ncValue) {
         const codes = {
-            "11": "P2AP311",
-            "10": "P2AP310",
-            "01": "P2AP301",
-            "21": "P2AP321",
-            "23": "P2AP323",
-            "22": "P2AP322",
-            "33": "P2AP333"
+            "11": "P2PSP311",
+            "10": "P2PSP310",
+            "01": "P2PSP301",
+            "21": "P2PSP321",
+            "23": "P2PSP323",
+            "22": "P2PSP322",
+            "33": "P2PSP333"
         };
 
         const combinedValue = noValue + ncValue;
@@ -1122,13 +1122,13 @@ function ProjredgreengenerateCode() {
 
     if (noValue && ncValue) {
         const codes = {
-            "11": "P2AP411",
-            "10": "P2AP410",
-            "01": "P2AP401",
-            "21": "P2AP421",
-            "23": "P2AP423",
-            "22": "P2AP422",
-            "33": "P2AP433"
+            "11": "P2PSP411",
+            "10": "P2PSP410",
+            "01": "P2PSP401",
+            "21": "P2PSP421",
+            "23": "P2PSP423",
+            "22": "P2PSP422",
+            "33": "P2PSP433"
         };
 
         const combinedValue = noValue + ncValue;
@@ -1190,13 +1190,13 @@ function ProjbluegreengenerateCode() {
 
     if (noValue && ncValue) {
         const codes = {
-            "11": "P2AP611",
-            "10": "P2AP610",
-            "01": "P2AP601",
-            "21": "P2AP621",
-            "23": "P2AP623",
-            "22": "P2AP622",
-            "33": "P2AP633"
+            "11": "P2PSP611",
+            "10": "P2PSP610",
+            "01": "P2PSP601",
+            "21": "P2PSP621",
+            "23": "P2PSP623",
+            "22": "P2PSP622",
+            "33": "P2PSP633"
         };
 
         const combinedValue = noValue + ncValue;
@@ -1258,13 +1258,13 @@ function ProjyellowgenerateCode() {
 
     if (noValue && ncValue) {
         const codes = {
-            "11": "P2AP811",
-            "10": "P2AP810",
-            "01": "P2AP801",
-            "21": "P2AP821",
-            "23": "P2AP823",
-            "22": "P2AP822",
-            "33": "P2AP833"
+            "11": "P2PSP811",
+            "10": "P2PSP810",
+            "01": "P2PSP801",
+            "21": "P2PSP821",
+            "23": "P2PSP823",
+            "22": "P2PSP822",
+            "33": "P2PSP833"
         };
 
         const combinedValue = noValue + ncValue;
@@ -1330,13 +1330,13 @@ function frragenerateCode() {
 
     if (noValue && ncValue) {
         const codes = {
-            "11": "P2AF1RR11",
-            "10": "P2AF1RR10",
-            "01": "P2AF1RR01",
-            "21": "P2AF1RR21",
-            "23": "P2AF1RR23",
-            "22": "P2AF1RR22",
-            "33": "P2AF1RR33"
+            "11": "P2PSF1RR11",
+            "10": "P2PSF1RR10",
+            "01": "P2PSF1RR01",
+            "21": "P2PSF1RR21",
+            "23": "P2PSF1RR23",
+            "22": "P2PSF1RR22",
+            "33": "P2PSF1RR33"
         };
 
         const combinedValue = noValue + ncValue;
@@ -1408,13 +1408,13 @@ function frrablackgenerateCode() {
 
     if (noValue && ncValue) {
         const codes = {
-            "11": "P2AF2RR11",
-            "10": "P2AF2RR10",
-            "01": "P2AF2RR01",
-            "21": "P2AF2RR21",
-            "23": "P2AF2RR23",
-            "22": "P2AF2RR22",
-            "33": "P2AF2RR33"
+            "11": "P2PSF2RR11",
+            "10": "P2PSF2RR10",
+            "01": "P2PSF2RR01",
+            "21": "P2PSF2RR21",
+            "23": "P2PSF2RR23",
+            "22": "P2PSF2RR22",
+            "33": "P2PSF2RR33"
         };
 
         const combinedValue = noValue + ncValue;
@@ -1477,13 +1477,13 @@ function frragreengenerateCode() {
 
     if (noValue && ncValue) {
         const codes = {
-            "11": "P2AF3RR11",
-            "10": "P2AF3RR10",
-            "01": "P2AF3RR01",
-            "21": "P2AF3RR21",
-            "23": "P2AF3RR23",
-            "22": "P2AF3RR22",
-            "33": "P2AF3RR33"
+            "11": "P2PSF3RR11",
+            "10": "P2PSF3RR10",
+            "01": "P2PSF3RR01",
+            "21": "P2PSF3RR21",
+            "23": "P2PSF3RR23",
+            "22": "P2PSF3RR22",
+            "33": "P2PSF3RR33"
         };
 
         const combinedValue = noValue + ncValue;
@@ -1546,13 +1546,13 @@ function frraredgreengenerateCode() {
 
     if (noValue && ncValue) {
         const codes = {
-            "11": "P2AF4RR11",
-            "10": "P2AF4RR10",
-            "01": "P2AF4RR01",
-            "21": "P2AF4RR21",
-            "23": "P2AF4RR23",
-            "22": "P2AF4RR22",
-            "33": "P2AF4RR33"
+            "11": "P2PSF4RR11",
+            "10": "P2PSF4RR10",
+            "01": "P2PSF4RR01",
+            "21": "P2PSF4RR21",
+            "23": "P2PSF4RR23",
+            "22": "P2PSF4RR22",
+            "33": "P2PSF4RR33"
         };
 
         const combinedValue = noValue + ncValue;
@@ -1614,13 +1614,13 @@ function frrabluegreengenerateCode() {
 
     if (noValue && ncValue) {
         const codes = {
-            "11": "P2AF6RR11",
-            "10": "P2AF6RR10",
-            "01": "P2AF6RR01",
-            "21": "P2AF6RR21",
-            "23": "P2AF6RR23",
-            "22": "P2AF6RR22",
-            "33": "P2AF6RR33"
+            "11": "P2PSF6RR11",
+            "10": "P2PSF6RR10",
+            "01": "P2PSF6RR01",
+            "21": "P2PSF6RR21",
+            "23": "P2PSF6RR23",
+            "22": "P2PSF6RR22",
+            "33": "P2PSF6RR33"
         };
 
         const combinedValue = noValue + ncValue;
@@ -1682,13 +1682,13 @@ function frrayellowgenerateCode() {
 
     if (noValue && ncValue) {
         const codes = {
-            "11": "P2AF8RR11",
-            "10": "P2AF8RR10",
-            "01": "P2AF8RR01",
-            "21": "P2AF8RR21",
-            "23": "P2AF8RR23",
-            "22": "P2AF8RR22",
-            "33": "P2AF8RR33"
+            "11": "P2PSF8RR11",
+            "10": "P2PSF8RR10",
+            "01": "P2PSF8RR01",
+            "21": "P2PSF8RR21",
+            "23": "P2PSF8RR23",
+            "22": "P2PSF8RR22",
+            "33": "P2PSF8RR33"
         };
 
         const combinedValue = noValue + ncValue;
@@ -1754,13 +1754,13 @@ function bootgenerateCode() {
 
     if (noValue && ncValue) {
         const codes = {
-            "11": "P2AF1BT711",
-            "10": "P2AF1BT710",
-            "01": "P2AF1BT701",
-            "21": "P2AF1BT721",
-            "23": "P2AF1BT723",
-            "22": "P2AF1BT722",
-            "33": "P2AF1BT733"
+            "11": "P2PSF1BT711",
+            "10": "P2PSF1BT710",
+            "01": "P2PSF1BT701",
+            "21": "P2PSF1BT721",
+            "23": "P2PSF1BT723",
+            "22": "P2PSF1BT722",
+            "33": "P2PSF1BT733"
         };
 
         const combinedValue = noValue + ncValue;
@@ -1832,13 +1832,13 @@ function bootblackgenerateCode() {
 
     if (noValue && ncValue) {
         const codes = {
-            "11": "P2AF2BT711",
-            "10": "P2AF2BT710",
-            "01": "P2AF2BT701",
-            "21": "P2AF2BT721",
-            "23": "P2AF2BT723",
-            "22": "P2AF2BT722",
-            "33": "P2AF2BT733"
+            "11": "P2PSF2BT711",
+            "10": "P2PSF2BT710",
+            "01": "P2PSF2BT701",
+            "21": "P2PSF2BT721",
+            "23": "P2PSF2BT723",
+            "22": "P2PSF2BT722",
+            "33": "P2PSF2BT733"
         };
 
         const combinedValue = noValue + ncValue;
@@ -1901,13 +1901,13 @@ function bootgreengenerateCode() {
 
     if (noValue && ncValue) {
         const codes = {
-            "11": "P2AF3BT711",
-            "10": "P2AF3BT710",
-            "01": "P2AF3BT701",
-            "21": "P2AF3BT721",
-            "23": "P2AF3BT723",
-            "22": "P2AF3BT722",
-            "33": "P2AF3BT733"
+            "11": "P2PSF3BT711",
+            "10": "P2PSF3BT710",
+            "01": "P2PSF3BT701",
+            "21": "P2PSF3BT721",
+            "23": "P2PSF3BT723",
+            "22": "P2PSF3BT722",
+            "33": "P2PSF3BT733"
         };
 
         const combinedValue = noValue + ncValue;
@@ -1970,13 +1970,13 @@ function bootredgreengenerateCode() {
 
     if (noValue && ncValue) {
         const codes = {
-            "11": "P2AF4BT711",
-            "10": "P2AF4BT710",
-            "01": "P2AF4BT701",
-            "21": "P2AF4BT721",
-            "23": "P2AF4BT723",
-            "22": "P2AF4BT722",
-            "33": "P2AF4BT733"
+            "11": "P2PSF4BT711",
+            "10": "P2PSF4BT710",
+            "01": "P2PSF4BT701",
+            "21": "P2PSF4BT721",
+            "23": "P2PSF4BT723",
+            "22": "P2PSF4BT722",
+            "33": "P2PSF4BT733"
         };
 
         const combinedValue = noValue + ncValue;
@@ -2038,13 +2038,13 @@ function bootbluegreengenerateCode() {
 
     if (noValue && ncValue) {
         const codes = {
-            "11": "P2AF6BT711",
-            "10": "P2AF6BT710",
-            "01": "P2AF6BT701",
-            "21": "P2AF6BT721",
-            "23": "P2AF6BT723",
-            "22": "P2AF6BT722",
-            "33": "P2AF6BT733"
+            "11": "P2PSF6BT711",
+            "10": "P2PSF6BT710",
+            "01": "P2PSF6BT701",
+            "21": "P2PSF6BT721",
+            "23": "P2PSF6BT723",
+            "22": "P2PSF6BT722",
+            "33": "P2PSF6BT733"
         };
 
         const combinedValue = noValue + ncValue;
@@ -2106,13 +2106,13 @@ function bootyellowgenerateCode() {
 
     if (noValue && ncValue) {
         const codes = {
-            "11": "P2AF8BT711",
-            "10": "P2AF8BT710",
-            "01": "P2AF8BT701",
-            "21": "P2AF8BT721",
-            "23": "P2AF8BT723",
-            "22": "P2AF8BT722",
-            "33": "P2AF8BT733"
+            "11": "P2PSF8BT711",
+            "10": "P2PSF8BT710",
+            "01": "P2PSF8BT701",
+            "21": "P2PSF8BT721",
+            "23": "P2PSF8BT723",
+            "22": "P2PSF8BT722",
+            "33": "P2PSF8BT733"
         };
 
         const combinedValue = noValue + ncValue;
